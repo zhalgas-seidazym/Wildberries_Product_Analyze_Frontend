@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bun add:*)",
+      "Bash(bun run lint:*)",
+      "Bash(bun run:*)",
+      "Bash(pkill:*)",
+      "Bash(rm:*)",
+      "Bash(timeout:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npm run dev:*)"
+    ],
+    "deny": []
+  }
+}
